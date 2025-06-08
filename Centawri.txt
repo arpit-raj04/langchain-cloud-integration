@@ -1,0 +1,3 @@
+You simply turn on Streaming - t LLMs can sometimes take a while to respond, and so in order to improve the user experience one thing that most applications do is stream back each token as it is generated
+
+-- User can Now see Progress.
